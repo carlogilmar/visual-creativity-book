@@ -3,3 +3,7 @@ title = "Creatividad para no-creativos: Estrategias visuales para tu día a día
 authors = ["Carlo Gilmar"]
 description = "Visual Thinking Series"
 language = "es"
+
+[output.html]
+
+[output.pdf]

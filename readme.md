@@ -1,3 +1,5 @@
+<img width="2550" height="3300" alt="Ilustración_sin_título" src="https://github.com/user-attachments/assets/37b9f506-e114-41f4-8d37-5cd882b76ec5" />
+
 # La Creatividad Visual: Dibuja para rediseñar tu universo.
 
 Visual creativity is a way of seeing your life on paper so you can notice what doesn’t fit, question it, and design better ways of living and working.

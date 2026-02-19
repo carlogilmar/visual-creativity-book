@@ -11,6 +11,20 @@ Caso real: Antes/después de alguien (tú o alumno).
 Reflexión provocativa: 1 pregunta dialéctica.
 ```
 
+## Nueva tabla de contenidos
+
+- Parte I: La Creatividad Visual
+    - Cap 1: Tu narrativa creativa
+    - Cap 2: Desarrolla tu pensamiento visual
+    - Cap 3: Cultiva tu creatividad visual
+    - Cap 4: Mitos sobre la creatividad
+    - Cap 5: La creatividad visual en tu vida diaria
+- Parte II: Estrategias Creativas
+- Parte III: Manifiesto del Visual Thinking
+- Parte IV: Referencias Visual Thinking
+
+---
+
 ## Tabla de contenidos
 
 - Parte I : El Mito del "No Sé Dibujar"
@@ -85,3 +99,6 @@ Llamado: "Tus símbolos son tu negativa. Tus gaps, tu libertad."
 - Desafío 30 días.
 - Plantillas imprimibles.
 - Comunidad online.
+
+
+

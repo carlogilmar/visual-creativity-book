@@ -48,26 +48,39 @@ Queridos lectores, este viaje que estoy compartiendo contiene muchas de mis expe
 
 ## La creatividad visual
 
-> La creatividad visual es una forma de visualizar nuestra vida en papel.
+Hablar de creatividad es también hablar de nuestras capacidades para habitar el mundo que nos rodea, lo hacemos a través del pensamiento, a través de nuestros sentidos, y a través de nuestras emociones. Habitamos espacios, habitamos personas, lugares, proyectos, ideas, siempre en constante movimiento. Cuando vamos en la calle podemos ir viendo cosas como árboles, fachadas de casas, murales, grafittis, publicidad, propaganda política, al menos en la Ciudad de México tenemos una gran cantidad de cosas que ver en la ciudad. Siempre que observamos nuestro ojo conecta en mayor o menor medida con lo que vemos, si te das cuenta, si te detienes a pensarlo con detenimiento, hay una cierta conexión entre lo que vemos y lo que nos gusta, por ejemplo, la ropa que usamos nos conecta de cierta forma, los colores, las ilustraciones, los colores que habitan nuestro hogar, los colores y formas que habitan en los cuadros de la pared de nuestras casas, el color de nuestro teléfono, la funda, el collar de tu mascota, aunque pareciera que no, inconscientemente elegimos visualmente qué cosas van mejor con nuestra personalidad. Estos procesos son instintivos y pasan en automático, están ahí a simple vista, pasando siempre. A veces aprendemos a hacerlo conscientemente, a veces aprender que lo podemos hacer nos abre la puerta a un gran mundo de posibilidades.
 
-# Hacemos lo mejor que podemos||:w
+Te reto así a comenzar tu recorrido en la creatividad visual a través de observarte y reconocerte.
 
+```
+Actividad: ¿Qué es lo que te gusta?
 
+Haz una lista de las cosas que te gustan, pon atención a las figuras y colores de las cosas que te dan identidad, si quieres puedes hacerlo por secciones, esta actividad te invita a la introspección y al autonocimiento. Te dejo algunas preguntas que pueden guiarte en este ejercicio.
 
+Objetivo: Estimar la memoria emocional y conectar con formas y figuras que están en nuestra memoria para poder encontrar repeticiones que nos permitan entender qué símbolos nos pueden dar identidad.
 
+Personal
+- ¿De qué color es tu mochila favorita?
+- ¿Cuál es tu outfit favorito para salir en una ocasión especial?
+- ¿Cuál es tu outfit favorito para quedarte en casa?
+- ¿Cuál es tu animal preferido? ¿Qué forma y colores tiene?
+- ¿Cuál es tu planta favorita?
+- ¿Cuál es tu perfume favorito y que notas tiene?
+- ¿Cuál es tu pintura favorita?
+- ¿Qué colores te vienen a la mente cuando escuchas tu canción favorita?
+- ¿Qué color le pondrías a tus emociones (felicidad, miedo, asco, tristeza y enojo)?
 
+Tu historia de vida
+- ¿Qué dulces te recuerdan a tu infancia?
+- Si tu infancia fuera un olor, ¿qué aroma sería?
+- ¿Con que outfits recuerdas a tu familia?
+- ¿Cuáles eran tus juguetes favoritos?
+```
 
+Me gusta mucho usar ejercicios introspectivos porque a veces no somos conscientes de lo poderoso que es nuestro mundo interno. Y empezar por aquí nos plantea un desafío de sinceridad y honestidad muy divertido y amable. La intención es estimular nuestra mente y nuestro corazón, comenzar a estimular los músculos de la imaginación para poder ponerlos en forma.
 
+La creatividad visual se nutre de nuestros universos internos.
 
+> La creatividad visual son procesos emocionales y del pensamiento que nos ayudan a visualizar, reconocer y replantear diferentes aspectos de nuestra vida en papel a través de formas, figuras y colores.
 
-
-
-
-
-
-
-
-
-
-
-
+La creatividad visual la poseemos todos, es parte de cada uno, y no tiene un juicio de valor, no puede ser buena o mala, no hay una escala para valorarla. Lo que sí hay son caminos para desarrollar nuestros sentidos y sacar mayor provecho de nuestras posibilidades.

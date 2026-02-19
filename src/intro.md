@@ -1,3 +1,5 @@
+![](images/chapter1/sample.png)
+
 # La Creatividad Visual: Dibuja para rediseñar tu universo.
 
 Visual creativity is a way of seeing your life on paper so you can notice what doesn’t fit, question it, and design better ways of living and working.
@@ -14,7 +16,7 @@ Reflexión provocativa: 1 pregunta dialéctica.
 ## Nueva tabla de contenidos
 
 - Parte I: La Creatividad Visual
-    - Cap 1: Tu narrativa creativa
+    - Cap 1: Tu narrativa creativa OK
     - Cap 2: Desarrolla tu pensamiento visual
     - Cap 3: Cultiva tu creatividad visual
     - Cap 4: Mitos sobre la creatividad

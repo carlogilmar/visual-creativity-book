@@ -1,4 +1,4 @@
-# Capítulo 1: Tu narrativa creativa
+# I Tu narrativa creativa
 
 
 ![](images/chapter1/ch1-1.png)
@@ -7,8 +7,15 @@ Para responder esta pregunta habría que preguntarse también **cuál es tu defi
 
 Es curioso por que tal vez el mayor bloqueo en estos procesos de aprendizaje tiene que ver con una **auto-descalificación**. A medida que he preguntado directamente y a medida que he presenciado los procesos de aprendizaje tanto personales como de mis alumnos, he entendido lo importante que es desafiar estas concepciones, resignificarlas y reacomodarlas en lugares más amables que nos permitan mirar las cosas desde otra perspectiva. 
 
-> [!IMPORTANT]
-> ¿Quién te enseñó lo que significa ser creativo?
+<!-- Note begin -->
+<p style="text-align: center;">
+<span style="display:block; background-color: #0f3460; color: #ffffff; padding: 18px 22px; border-radius: 10px; font-family: 'Georgia', serif; font-size: 1.1em; line-height: 1.7; border-left: 4px solid #ecc121; box-shadow: 0 4px 15px rgba(0,0,0,0.2); -webkit-print-color-adjust: exact; print-color-adjust: exact;">
+  ¿Quién te enseñó lo que significa ser creativo?
+</span>
+</p>
+<!-- Note end -->
+
+![](images/chapter1/ch1-5.png)
 
 **¿Qué es ser alguien creativo?** Socialmente atribuímos que una persona creativa es alguien especial, talentosa, de gran reconocimiento, alguien que cumple con la ecuación de **talento + originalidad + validación pública**. Aceptamos en automático que para ser creativo hay que cumplir con normas desconocidas e inalcanzables, que además de ser original, necesitas gustarle a otras personas, aprendemos desde muy pequeños a complacer la mirada de los otros, y este factor se vuelve muy determinante en nuestro crecimiento y en nuestra toma de decisiones. 
 
@@ -22,8 +29,13 @@ Por ejemplo, cuando regresaba a casa después de la escuela me gustaba mucho cam
 
 ![](images/chapter1/ch1-4.png)
 
-> [!IMPORTANT]
-> La creatividad es una capacidad de generar ideas y diferentes formas de ver.
+<!-- Note begin -->
+<p style="text-align: center;">
+<span style="display:block; background-color: #0f3460; color: #ffffff; padding: 18px 22px; border-radius: 10px; font-family: 'Georgia', serif; font-size: 1.1em; line-height: 1.7; border-left: 4px solid #ecc121; box-shadow: 0 4px 15px rgba(0,0,0,0.2); -webkit-print-color-adjust: exact; print-color-adjust: exact;">
+  La creatividad es una capacidad de generar ideas y diferentes formas de ver.
+</span>
+</p>
+<!-- Note end -->
 
 Este espíritu creativo es común identificarlo en los bebés y niños, cuando somos pequeños empezamos a conocer el mundo sin un juicio de valor sobre si algo _esta bien o esta mal_, imaginamos, creamos y experimentamos, porque estamos conociendo por vez primera el mundo que habitamos. A medida que crecemos aprendemos las nociones del bien y del mal, y vamos dejando de lado nuestra esencia creativa en favor de desarrollar otras habilidades prácticas. 
 
@@ -31,16 +43,16 @@ Y así es como olvidamos nuestra creatividad, adoptamos nuevos conceptos y preju
 
 Este material es un acompañamiento y un desafío para ti, es una oportunidad para que cuestiones lo que sabes sobre ti, para que te brindes nuevas oportunidades de entenderte como alguien lleno de creatividad, y que puedas aprender formas diferentes de ver la vida.
 
-> [!IMPORTANT]
-> Esta es una gran oportunidad de cuestionar lo que piensas que es la creatividad y lo que te dijeron que era.
+<!-- Note begin -->
+<p style="text-align: center;">
+<span style="display:block; background-color: #0f3460; color: #ffffff; padding: 18px 22px; border-radius: 10px; font-family: 'Georgia', serif; font-size: 1.1em; line-height: 1.7; border-left: 4px solid #ecc121; box-shadow: 0 4px 15px rgba(0,0,0,0.2); -webkit-print-color-adjust: exact; print-color-adjust: exact;">
+Esta es una gran oportunidad de cuestionar lo que piensas que es la creatividad y lo que te dijeron que era.
+</span>
+</p>
+<!-- Note end -->
 
 Desde cierto punto de vista me gusta ver que el **acto de crear es un acto de liberación**, de rebeldía, de cuestionar lo que nos enseñaron que debía ser la creatividad, de demostrar que nuestros pensamientos e ideas son válidos por el hecho de ser, que no hay juicio de valor que afecte nuestras capacidades y habilidades, que la creatividad es una habilidad humana propia y no sólo de artistas famosos. 
 
 **Resignifiquemos la creatividad en nuestras vidas.**
 
-
-
-
-
-
-
+![](images/chapter1/ch1-6.png)

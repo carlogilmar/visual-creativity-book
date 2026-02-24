@@ -1,5 +1,6 @@
-# I Tu narrativa creativa
-
+<p style="text-align: center; font-size: 4.5em; font-weight: bold; font-family: 'Georgia', serif; letter-spacing: 0.02em;">
+  I Tu narrativa creativa
+</p>
 
 ![](images/chapter1/ch1-1.png)
 
@@ -9,7 +10,7 @@ Es curioso por que tal vez el mayor bloqueo en estos procesos de aprendizaje tie
 
 <!-- Note begin -->
 <p style="text-align: center;">
-<span style="display:block; background-color: #0f3460; color: #ffffff; padding: 18px 22px; border-radius: 10px; font-family: 'Georgia', serif; font-size: 1.1em; line-height: 1.7; border-left: 4px solid #ecc121; box-shadow: 0 4px 15px rgba(0,0,0,0.2); -webkit-print-color-adjust: exact; print-color-adjust: exact;">
+<span style="display:block; background-color: #0f3460; color: #ffffff; padding: 18px 22px; border-radius: 10px; font-family: 'Georgia', serif; font-size: 1.1em; line-height: 1.7; border-left: 4px solid #ecc121; -webkit-print-color-adjust: exact; print-color-adjust: exact;">
   ¿Quién te enseñó lo que significa ser creativo?
 </span>
 </p>
@@ -31,7 +32,7 @@ Por ejemplo, cuando regresaba a casa después de la escuela me gustaba mucho cam
 
 <!-- Note begin -->
 <p style="text-align: center;">
-<span style="display:block; background-color: #0f3460; color: #ffffff; padding: 18px 22px; border-radius: 10px; font-family: 'Georgia', serif; font-size: 1.1em; line-height: 1.7; border-left: 4px solid #ecc121; box-shadow: 0 4px 15px rgba(0,0,0,0.2); -webkit-print-color-adjust: exact; print-color-adjust: exact;">
+<span style="display:block; background-color: #0f3460; color: #ffffff; padding: 18px 22px; border-radius: 10px; font-family: 'Georgia', serif; font-size: 1.1em; line-height: 1.7; border-left: 4px solid #ecc121; -webkit-print-color-adjust: exact; print-color-adjust: exact;">
   La creatividad es una capacidad de generar ideas y diferentes formas de ver.
 </span>
 </p>
@@ -45,7 +46,7 @@ Este material es un acompañamiento y un desafío para ti, es una oportunidad pa
 
 <!-- Note begin -->
 <p style="text-align: center;">
-<span style="display:block; background-color: #0f3460; color: #ffffff; padding: 18px 22px; border-radius: 10px; font-family: 'Georgia', serif; font-size: 1.1em; line-height: 1.7; border-left: 4px solid #ecc121; box-shadow: 0 4px 15px rgba(0,0,0,0.2); -webkit-print-color-adjust: exact; print-color-adjust: exact;">
+<span style="display:block; background-color: #0f3460; color: #ffffff; padding: 18px 22px; border-radius: 10px; font-family: 'Georgia', serif; font-size: 1.1em; line-height: 1.7; border-left: 4px solid #ecc121; -webkit-print-color-adjust: exact; print-color-adjust: exact;">
 Esta es una gran oportunidad de cuestionar lo que piensas que es la creatividad y lo que te dijeron que era.
 </span>
 </p>

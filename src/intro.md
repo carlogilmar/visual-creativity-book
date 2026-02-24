@@ -1,4 +1,6 @@
-# La Creatividad Visual
+<p style="text-align: center; font-size: 4.5em; font-weight: bold; font-family: 'Georgia', serif; letter-spacing: 0.02em;">
+  La creatividad visual
+</p>
 
 Visual creativity is a way of seeing your life on paper so you can notice what doesn’t fit, question it, and design better ways of living and working.
 

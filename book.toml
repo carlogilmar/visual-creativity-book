@@ -1,5 +1,5 @@
 [book]
-title = "Creatividad para no-creativos: Estrategias visuales para tu día a día"
+title = "Creatividad Visual para no-creativos: Estrategias para tu día a día"
 authors = ["Carlo Gilmar"]
 description = "Visual Thinking Series"
 language = "es"
@@ -7,3 +7,13 @@ language = "es"
 [output.html]
 
 [output.pdf]
+display-header-footer = true
+header-template = "<p style='font-size:12px; margin-left: 45%; color: #bcbcbc;'>Creatividad Visual</p>"
+footer-template = "<p style='font-size:10px; margin-left: 48%; color: #bcbcbc;'><span class='pageNumber'></span> / <span class='totalPages'></span></p>"
+prefer-css-page-size = true
+generate-document-outline = false
+margin-top = 1
+margin-bottom = 1
+
+[output.html.print]
+enable = true

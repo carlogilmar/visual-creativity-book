@@ -1,14 +1,16 @@
-# La creatividad visual
+<p style="text-align: center; font-size: 4.5em; font-weight: bold; font-family: 'Georgia', serif; letter-spacing: 0.02em;">
+  II Tu creatividad visual
+</p>
 
 Más que hablar sobre una sola forma de ser creativos, podemos **hablar de un espectro o rango de diferentes formas de serlo**. Como he mencionado antes, uno de los bloqueos de mayor peso es la **autopercepción como personas no creativas**, y esto puede influir demasiado en tu proceso de aprendizaje, por eso mismo es importante comenzar por cuestionarnos nuestra definición de creatividad y al mismo tiempo dejar de lado los juicios de valor sobre nuestro trabajo. 
 
-> Imagen keith haring tipo jeroglificos o bien imágenes prehispanicas
+![](images/chapter2/ch2-1.png)
 
 Los **seres humanos creamos por necesidad**, nuestras necesidades pueden ir desde necesidades fisiológicas como comer o respirar, hasta necesidades sociales y personales. La creatividad ha jugado un papel importante y determinante como condimento para resolver esas necesidades, lo podemos ver fácilmente en las pinturas rupestres o bien en las culturas prehispánicas. 
 
 <!-- Note begin -->
 <p style="text-align: center;">
-<span style="display:block; background-color: #0f3460; color: #ffffff; padding: 18px 22px; border-radius: 10px; font-family: 'Georgia', serif; font-size: 1.1em; line-height: 1.7; border-left: 4px solid #ecc121; box-shadow: 0 4px 15px rgba(0,0,0,0.2); -webkit-print-color-adjust: exact; print-color-adjust: exact;">
+<span style="display:block; background-color: #0f3460; color: #ffffff; padding: 18px 22px; border-radius: 10px; font-family: 'Georgia', serif; font-size: 1.1em; line-height: 1.7; border-left: 4px solid #ecc121; -webkit-print-color-adjust: exact; print-color-adjust: exact;">
   La creatividad visual nos permite codificar experiencias.
 </span>
 </p>
@@ -16,11 +18,11 @@ Los **seres humanos creamos por necesidad**, nuestras necesidades pueden ir desd
 
 Comenzar a **percibir y apreciar los detalles** de lo que nos rodea es el paso inicial para desarrollar a conciencia nuestra creatividad, pocas veces nos ponemos a preguntar por qué conectamos mejor con ciertos colores, con ciertas formas, o con ciertos sonidos, muchos de nuestros gustos codifican incluso información genética de nuestros ancestros y por supuesto conectan con nuestra memoria emocional. Te invito a que durante este camino te des oportunidad de preguntarte e indagar por qué te gustan ciertas cosas, y tal vez encontrarás conexiones únicas con tu historia de vida, y si te fijas bien, esas mismas conexiones son únicas e irrepetibles, por más que alguien tenga experiencias similares, cada quién experimenta de forma única, y justo ahí es donde radica parte de tu originalidad. 
 
-> Mapa de gustos originales: colores, formas y sonidos
+![](images/chapter2/ch2-2.png)
 
 <!-- Note begin -->
 <p style="text-align: center;">
-<span style="display:block; background-color: #0f3460; color: #ffffff; padding: 18px 22px; border-radius: 10px; font-family: 'Georgia', serif; font-size: 1.1em; line-height: 1.7; border-left: 4px solid #ecc121; box-shadow: 0 4px 15px rgba(0,0,0,0.2); -webkit-print-color-adjust: exact; print-color-adjust: exact;">
+<span style="display:block; background-color: #0f3460; color: #ffffff; padding: 18px 22px; border-radius: 10px; font-family: 'Georgia', serif; font-size: 1.1em; line-height: 1.7; border-left: 4px solid #ecc121; -webkit-print-color-adjust: exact; print-color-adjust: exact;">
   Nuestra historia de vida guarda nuestra originalidad.
 </span>
 </p>
@@ -36,7 +38,7 @@ Si lo pensamos bien el mundo de las palabras domina en cierta forma, pero **¿qu
 
 <!-- Note begin -->
 <p style="text-align: center;">
-<span style="display:block; background-color: #0f3460; color: #ffffff; padding: 18px 22px; border-radius: 10px; font-family: 'Georgia', serif; font-size: 1.1em; line-height: 1.7; border-left: 4px solid #ecc121; box-shadow: 0 4px 15px rgba(0,0,0,0.2); -webkit-print-color-adjust: exact; print-color-adjust: exact;">
+<span style="display:block; background-color: #0f3460; color: #ffffff; padding: 18px 22px; border-radius: 10px; font-family: 'Georgia', serif; font-size: 1.1em; line-height: 1.7; border-left: 4px solid #ecc121; -webkit-print-color-adjust: exact; print-color-adjust: exact;">
   ¿Que pasaría si dejas de usar texto para resolver algunos problemas? ¿Cómo los resolverías?
 </span>
 </p>
@@ -44,7 +46,7 @@ Si lo pensamos bien el mundo de las palabras domina en cierta forma, pero **¿qu
 
 En una ocasión tuve la oportunidad de asistir a un congreso de estudiantes en Berlín, ahí la dinámica era tener mesas de debate para platicar nuestras experiencias, sin embargo, era la primera vez que estaba en una situación así, quiero decir en el extranjero y en un idioma en el que me sentía inseguro de comunicarme. Sin embargo tenía muchas ganas de participar así que se me ocurrió tomar unas servilletas y comenzar a dibujar mis ideas, en menos de dos minutos había escrito algunas cosas y pude usarlas como apoyo para mi participación. Cosas inimaginables pasan cuando cambias las reglas del juego.
 
-> Servilletas
+![](images/chapter2/ch2-3.png)
 
 # Dos rebeldes, un mismo camino
 

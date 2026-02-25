@@ -48,7 +48,7 @@ En una ocasión tuve la oportunidad de asistir a un congreso de estudiantes en B
 
 ![](images/chapter2/ch2-3.png)
 
-# Dos rebeldes, un mismo camino
+## Dos rebeldes, un mismo camino
 
 Aunque he dicho que **no necesitas ser un artista para ser creativo**, encuentro muy enriquecedor estudiar los procesos de vida de algunos artistas que aportaron muchas ideas en muchos campos que nos pueden servir de referencia e inspiración. Tal es el caso de dos artistas del arte pop Haring y Basquiat. 
 

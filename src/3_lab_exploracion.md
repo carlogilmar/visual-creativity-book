@@ -10,9 +10,29 @@ En las fases exploratorias donde empezamos a explorar los alcances de nuestros a
 
 Esto puede ser un gran aliado y compañero si se desarrolla a conciencia, por ello te invito a trabajar en **crear un laboratorio de exploración propio**. Si bien no hay una definición de qué es o cómo se ve, las siguientes ideas y propuestas podrán guiarte para crear tu laboratorio de exploración a tu medida. 
 
+<!-- Note begin -->
+<p style="text-align: center;">
+<span style="display:block; background-color: #0f3460; color: #ffffff; padding: 18px 22px; border-radius: 10px; font-family: 'Georgia', serif; font-size: 1.1em; line-height: 1.7; border-left: 4px solid #ecc121; -webkit-print-color-adjust: exact; print-color-adjust: exact;">
+  <!-- Your text here!!! -->
+  Considera crear un espacio donde puedas crear con libertad.
+</span>
+</p>
+<!-- Note end -->
+
 ## El pacto de tu laboratorio creativo
 
-Este pacto es un contrato entre **tú y tu creatividad**.
+Con el paso de la experiencia he visto que el bloqueo más importante para adoptar nuevos procesos creativos tiene que ver con **un tema cultural de cómo afrontamos a aprender nuevas cosas.** Muchas personas se descalifican porque creen que necesitan algún nivel de dominio sobre algo, más aún si el tema se conecta con lo artístico, como hemos platicado anteriormente. 
+
+Empezar por un **pacto con tu laboratorio creativo** tiene por objetivo conscientizar **las emociones difíciles** que afrontaremos durante nuestros procesos de aprendizaje. Durante el camino tendremos momentos complicados que nadie nos enseña **que se pueden atravesar desde lugares diferentes**. Te invito a leer y releer varias veces para que puedas hacer tuyo este pacto, que puedas modificarlo a tus necesidades y usarlo como **un motor guía** en lo próximos pasos de tu camino. 
+
+<!-- Note begin -->
+<p style="text-align: center;">
+<span style="display:block; background-color: #0f3460; color: #ffffff; padding: 18px 22px; border-radius: 10px; font-family: 'Georgia', serif; font-size: 1.1em; line-height: 1.7; border-left: 4px solid #ecc121; -webkit-print-color-adjust: exact; print-color-adjust: exact;">
+  <!-- Your text here!!! -->
+  Este pacto es un contrato entre tú y tu creatividad.
+</span>
+</p>
+<!-- Note end -->
 
 - Acepto que **habrá frustración** como parte del proceso que me hará saber que **estoy trabajando en mis límites conocidos**.
 - Acepto que **mi ritmo creativo lleva pausas y tiempo muerto**, que avanzo y **crezco en la paciencia**.
@@ -20,15 +40,20 @@ Este pacto es un contrato entre **tú y tu creatividad**.
 - Acepto que **ningún otro camino invalida el mío.** Voy a **mi propio ritmo**. 
 - Acepto que **la mejor versión de mi no es ser una máquina de producir** sino una **mente curiosa** en práctica. 
 
-Con el paso de la experiencia he visto que el bloqueo más importante para adoptar nuevos procesos creativos tiene que ver con **un tema cultural de cómo afrontamos a aprender nuevas cosas.** Muchas personas se descalifican porque creen que necesitan algún nivel de dominio sobre algo, más aún si el tema se conecta con lo artístico, como hemos platicado anteriormente. 
-
-Empezar por un **pacto con tu laboratorio creativo** tiene por objetivo conscientizar **las emociones difíciles** que afrontaremos durante nuestros procesos de aprendizaje. Durante el camino tendremos momentos complicados que nadie nos enseña **que se pueden atravesar desde lugares diferentes**. Te invito a leer y releer varias veces para que puedas hacer tuyo este pacto, que puedas modificarlo a tus necesidades y usarlo como **un motor guía** en lo próximos pasos de tu camino. 
-
 Muchos de los artefactos que estamos usando, **como el manifiesto, el juramento y el pacto**, son parte de una forma de ver el mundo que nos rodea que pueden **extrapolarse a cualquier otro ámbito**, que puede ser el profesional, el personal, el de tus relaciones. A medida que inviertas tu tiempo y corazón en tu propio desarrollo creativo verás que descubrirás nuevas formas de operar en muchos ámbitos.
 
 ## Tu laboratorio es un ritual
 
 Aunque vivimos en un mundo digital donde nuestras principales herramientas son apps y agentes de IA, te propongo que para darle forma a tu laboratorio de exploración utilices **una libreta física**. 
+
+<!-- Note begin -->
+<p style="text-align: center;">
+<span style="display:block; background-color: #0f3460; color: #ffffff; padding: 18px 22px; border-radius: 10px; font-family: 'Georgia', serif; font-size: 1.1em; line-height: 1.7; border-left: 4px solid #ecc121; -webkit-print-color-adjust: exact; print-color-adjust: exact;">
+  <!-- Your text here!!! -->
+  Los objetos físicos nos permiten tener procesos de aprendizaje diferentes y profundos.
+</span>
+</p>
+<!-- Note end -->
 
 Tu laboratorio puede ser:
 - Una **libreta** que te guste, puedes forrarla a tu gusto, ponerle stickers, de la forma que mejor te acomode. 
@@ -38,7 +63,16 @@ Tu laboratorio puede ser:
 
 Insisto en que **tengas una libreta física como tu laboratorio de ideas** porque hay algunas consideraciones del objeto físico sobre el objeto digital. Cuando involucramos las manos al momento de escribir, decorar, dibujar, incluso al manipular, **creamos conexiones sensoriales y emocionales que no son fáciles de emular digitalmente**. El objeto físico puede evolucionar en un **ritual de conexión**, por eso lo importante de que tu libreta sea algo que te guste y te de placer de tener. Las **emociones** que comienzan a fluir son **parte de tu proceso creativo**, cada página se convierte en evidencia de práctica real, es como tener un diario íntimo tuyo, tú decides si lo muestras o no, no tiene que complacer a nadie ni ganar _likes_ ni _views_, es **tu espacio personal**.
 
-De cierta forma **lo físico crea estados mentales** que permiten fluir de manera diferente tus pensamientos. Los objetos, la conexión entre ellos, el ecosistema que se crea en sinergia alimenta tus ideas inconscientes. Al limitar tu actividad a un cuaderno que tiene una forma definida y un límite de páginas hace que tu creatividad funcione diferente: _"mientras más limito, más me libero" Jorge Drexler_.
+De cierta forma **lo físico crea estados mentales** que permiten fluir de manera diferente tus pensamientos. Los objetos, la conexión entre ellos, el ecosistema que se crea en sinergia alimenta tus ideas inconscientes. Al limitar tu actividad a un cuaderno que tiene una forma definida y un límite de páginas hace que tu creatividad funcione diferente.
+
+<!-- Note begin -->
+<p style="text-align: center;">
+<span style="display:block; background-color: #0f3460; color: #ffffff; padding: 18px 22px; border-radius: 10px; font-family: 'Georgia', serif; font-size: 1.1em; line-height: 1.7; border-left: 4px solid #ecc121; -webkit-print-color-adjust: exact; print-color-adjust: exact;">
+  <!-- Your text here!!! -->
+  "Mientras más me limito más me libero", Jorge Drexler.
+</span>
+</p>
+<!-- Note end -->
 
 ## Tu lugar seguro
 
@@ -53,6 +87,15 @@ Algo que suelo hacer durante mis sesiones de entrenamiento es apoyar a mis alumn
 ## Durante el camino
 
 Muchas veces valoramos más el final del camino sobre el propio camino. Te propongo que pongamos más atención **al proceso sobre el fin**. Es muy importante acompañar este recorrido creativo con tu desarrollo emocional, son **las emociones del camino** lo que te darán mejores indicios de donde desarrollar más o donde trabajar ciertas áreas de oportunidad.
+
+<!-- Note begin -->
+<p style="text-align: center;">
+<span style="display:block; background-color: #0f3460; color: #ffffff; padding: 18px 22px; border-radius: 10px; font-family: 'Georgia', serif; font-size: 1.1em; line-height: 1.7; border-left: 4px solid #ecc121; -webkit-print-color-adjust: exact; print-color-adjust: exact;">
+  <!-- Your text here!!! -->
+  La creatividad visual es un acto de reconciliación.
+</span>
+</p>
+<!-- Note end -->
 
 Aprender a **resignificar estados emocionales** es lo que impulsará nuestra actividad creativa, así que me dí a la tarea de estructurar algunas emociones que probablemente sentirás y cómo darles un _giro de tuerca_ que te permitan ver la situación desde otra mirada.
 

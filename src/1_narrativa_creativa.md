@@ -30,8 +30,6 @@ Sin embargo la creatividad **tiene que ver con un asunto de generar ideas, de ve
 
 Por ejemplo, cuando regresaba a casa después de la escuela me gustaba mucho cambiar mi ruta porque el camino de siempre me aburría, así que no me importaba caminar más cuadras con el fin de conocer más caminos y nuevos lugares. Este es un ejemplo muy superficial, pero con esto quiero ilustrar lo que es **la creatividad** para mi _se trata de encontrar nuevas y diferentes formas de ver, algunas mejor o peor que otras, no importa, se trata de las ideas que se te ocurren y como las llevas a la práctica._
 
-![](images/chapter1/ch1-4.png)
-
 <!-- Note begin -->
 <p style="text-align: center;">
 <span style="display:block; background-color: #0f3460; color: #ffffff; padding: 18px 22px; border-radius: 10px; font-family: 'Georgia', serif; font-size: 1.1em; line-height: 1.7; border-left: 4px solid #ecc121; -webkit-print-color-adjust: exact; print-color-adjust: exact;">
@@ -39,6 +37,8 @@ Por ejemplo, cuando regresaba a casa después de la escuela me gustaba mucho cam
 </span>
 </p>
 <!-- Note end -->
+
+![](images/chapter1/ch1-4.png)
 
 Este espíritu creativo es común identificarlo en los bebés y niños, cuando somos pequeños empezamos a conocer el mundo sin un juicio de valor sobre si algo _esta bien o esta mal_, imaginamos, creamos y experimentamos, porque estamos conociendo por vez primera el mundo que habitamos. A medida que crecemos aprendemos las nociones del bien y del mal, y vamos dejando de lado nuestra esencia creativa en favor de desarrollar otras habilidades prácticas. 
 

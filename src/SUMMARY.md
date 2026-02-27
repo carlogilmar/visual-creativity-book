@@ -1,6 +1,6 @@
 # Summary
 
-[](./intro.md)
+[Intro](./intro.md)
 
 # La Creatividad Visual
 

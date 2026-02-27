@@ -26,7 +26,7 @@ El _visual thinking_ me **ha ayudado a cultivar mi creatividad visual**. He dibu
 
 Este material que tienes en las manos es resultado de mi experiencia como _visual thinker_ y como instructor. Mientras más trabajo en **mis procesos íntimos con sinceridad**, soy capaz de ser más empático con las personas que me permiten que los guíe en sus procesos creativos. De aquí es donde he podido enriquecer mis definiciones y crear mi propia metodología de trabajo. 
 
-Para mí el _visual thinking_ n**o tiene que ver necesariamente con saber dibujar**. El internet suele confundir trabajos de _sketchnoting_ (tomar notas a mano) con trabajos de _visual thinking_ y es muy fácil caer en la definición de que sólo se trata de dibujar conceptos con imágenes. Caer ahí es caer en una generalización que deja fuera el detalle profundo de este mundo. 
+Para mí el _visual thinking_ **no tiene que ver necesariamente con saber dibujar**. El internet suele confundir trabajos de _sketchnoting_ (tomar notas a mano) con trabajos de _visual thinking_ y es muy fácil caer en la definición de que sólo se trata de dibujar conceptos con imágenes. Caer ahí es caer en una generalización que deja fuera el detalle profundo de este mundo. 
 
 El **visual thinking es pensamiento activo**, es involucrar tus sentidos físicos y tus estados emocionales. **El trazo aparece como un medio** que nos permite extender y visibilizar el pensamiento. Puede ser tan complejo como visualizar nuestras rutas de pensamiento. ¿Cómo se ve lo que piensas? ¿Cómo se ve lo que sientes? A través de **símbolos** concretamos ideas que representan pensamientos en movimiento. El trazo de garabatos es entonces un paso final, solo después de haber materializado en imágenes mentales y símbolos lo que pasa por la cabeza y el corazón. El **medio es el mensaje** como dice Marshall McLuhan.
 
@@ -35,7 +35,7 @@ El **visual thinking es pensamiento activo**, es involucrar tus sentidos físico
 <p style="text-align: center;">
 <span style="display:block; background-color: #0f3460; color: #ffffff; padding: 18px 22px; border-radius: 10px; font-family: 'Georgia', serif; font-size: 1.1em; line-height: 1.7; border-left: 4px solid #ecc121; -webkit-print-color-adjust: exact; print-color-adjust: exact;">
   <!-- Your text here!!! -->
-Visual Thinking es pensar con garabatos imperfectos que funcionan como un espejo mental y emocional, una guía de aprendizaje y evolución de tu percepción. 
+Visual Thinking es pensar con garabatos imperfectos que funcionan como un espejo mental y emocional, una guía de aprendizaje y evolución de tu percepción. Es una forma de aterrizar tus pensamientos en papel para darte cuenta de lo que no se ajusta, de hacerte preguntas, cuestionarte y diseñar nuevas formas de entenderte. 
   </span>
 </p>
 <!-- Note end -->

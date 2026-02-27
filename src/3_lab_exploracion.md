@@ -1,5 +1,5 @@
 <p style="text-align: center; font-size: 4.5em; font-weight: bold; font-family: 'Georgia', serif; letter-spacing: 0.02em;">
-  III Tu laboratorio de exploración
+  III Laboratorio de exploración: tu laboratorio secreto de garabatos
 </p>
 
 En los capítulos anteriores platicamos sobre **la creatividad como una habilidad humana** que podemos desarollar a conciencia, platicamos lo importante que es **resignificar nuestra autoconcepción** y darnos la oportunidad de **valorar nuestros actos creativos**. 

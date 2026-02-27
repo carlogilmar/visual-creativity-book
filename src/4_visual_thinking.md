@@ -1,5 +1,5 @@
 <p style="text-align: center; font-size: 4.5em; font-weight: bold; font-family: 'Georgia', serif; letter-spacing: 0.02em;">
-  IV Visual Thinking
+  IV Visual Thinking: pensar con garabatos
 </p>
 
 En el primer capítulo te propuse **replantear y resignificar el tema de la creatividad** como una cualidad humana que **poseemos en nuestra genética**. En el segundo capítulo platicamos de cómo **hay un espectro de creatividades** donde podemos encontrar la creatividad visual como una forma de **codificar experiencias, resolver problemas y crear una relación personal con nosotros mismos**. En el tercer capítulo te plantee la creación de un **laboratorio de exploración**, un lugar donde puedas experimentar y dejar fluir tus ideas libremente, cuál terreno fértil para entrenar **tu creatividad visual**.

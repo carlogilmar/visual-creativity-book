@@ -1,5 +1,5 @@
 <p style="text-align: center; font-size: 4.5em; font-weight: bold; font-family: 'Georgia', serif; letter-spacing: 0.02em;">
-  II Tu creatividad visual
+  II Creatividad visual: el músculo que ya tienes
 </p>
 
 Más que hablar sobre una sola forma de ser creativos, podemos **hablar de un espectro o rango de diferentes formas de serlo**. Como he mencionado antes, uno de los bloqueos de mayor peso es la **autopercepción como personas no creativas**, y esto puede influir demasiado en tu proceso de aprendizaje, por eso mismo es importante comenzar por cuestionarnos nuestra definición de creatividad y al mismo tiempo dejar de lado los juicios de valor sobre nuestro trabajo. 

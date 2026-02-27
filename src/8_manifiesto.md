@@ -1,5 +1,5 @@
 <p style="text-align: center; font-size: 4.5em; font-weight: bold; font-family: 'Georgia', serif; letter-spacing: 0.02em;">
-  Manifiesto del Garabato 
+  Manifiesto del garabato 
 </p>
 
 ![](images/chapter8/ch8-1.png)

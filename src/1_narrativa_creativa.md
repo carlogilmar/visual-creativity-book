@@ -6,6 +6,8 @@
 
 Para responder esta pregunta habría que preguntarse también **cuál es tu definición de ser una persona creativa.** Muchas veces creemos tener ciertas nociones sobre algunos conceptos que en automático damos por hecho, la creatividad es uno de ellos. Con el tiempo, con trabajo interno, y como instructor, me he dado cuenta que uno de los mayores bloqueos de las personas para aprender nuevas estrategias creativas es el hecho de percibirse como personas ajenas a este mundo. 
 
+![](images/chapter1/ch1-7.png)
+
 Es curioso por que tal vez el mayor bloqueo en estos procesos de aprendizaje tiene que ver con una **auto-descalificación**. A medida que he preguntado directamente y a medida que he presenciado los procesos de aprendizaje tanto personales como de mis alumnos, he entendido lo importante que es desafiar estas concepciones, resignificarlas y reacomodarlas en lugares más amables que nos permitan mirar las cosas desde otra perspectiva. 
 
 <!-- Note begin -->

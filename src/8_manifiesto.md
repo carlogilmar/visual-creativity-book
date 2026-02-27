@@ -6,21 +6,9 @@
 
 ![](images/chapter8/ch8-2.png)
 
-**Principios:**
-1. No hay juicios, hay curiosidad.
-2. El trazo crea vínculos de empatía entre personas.
-3. La sinceridad y honestidad nutren tu mundo visual.
-4. Permite que tus garabatos te guíen.
-5. Abraza los espacios en blanco.
-6. Cualquier superficio es tu lienzo.
-7. La iteración crea evolución.
-8. La imperfección es tu revolución.
-9. El mundo necesita tu creatividad.
-
-
----
-
 ![](images/chapter8/ch8-3.png)
+
+![](images/chapter8/ch8-4.png)
 
 **1. No hay juicios, hay curiosidad.**
 Tus ilustraciones no son un examen, son un espejo. El juicio mata la curiosidad e interrumpe tu proceso creativo. ¿Quién define qué esta bien y qué esta mal? No hay un regla para crear. 
@@ -36,8 +24,6 @@ Deja de pelearte con replicar con exactitud estilos para tus garabatos. Tus gara
 
 **5. Abraza los espacios en blanco.**
 Los espacios en blanco serán frecuentes, más que ser espacios por ser llenados, son maestros disfrazados de preguntas que te invitan a desafíar lo que sabes y lo que ves. Son preguntas esperando a ser preguntadas. Permite que existan en tu lienzo. 
-
-![](images/chapter8/ch8-4.png)
 
 **6. Cualquier superficie es tu lienzo.**
 La creatividad visual no pide permiso para manifestarse, cualquier lugar y cualquier material es óptimo para dejar que tus manos hagan su magia.

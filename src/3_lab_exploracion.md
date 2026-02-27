@@ -19,6 +19,8 @@ Esto puede ser un gran aliado y compañero si se desarrolla a conciencia, por el
 </p>
 <!-- Note end -->
 
+![](images/chapter3/ch3-2.png)
+
 ## El pacto de tu laboratorio creativo
 
 Con el paso de la experiencia he visto que el bloqueo más importante para adoptar nuevos procesos creativos tiene que ver con **un tema cultural de cómo afrontamos a aprender nuevas cosas.** Muchas personas se descalifican porque creen que necesitan algún nivel de dominio sobre algo, más aún si el tema se conecta con lo artístico, como hemos platicado anteriormente. 
@@ -34,13 +36,17 @@ Empezar por un **pacto con tu laboratorio creativo** tiene por objetivo conscien
 </p>
 <!-- Note end -->
 
-- Acepto que **habrá frustración** como parte del proceso que me hará saber que **estoy trabajando en mis límites conocidos**.
-- Acepto que **mi ritmo creativo lleva pausas y tiempo muerto**, que avanzo y **crezco en la paciencia**.
-- Acepto que **sentiré momentos de verguenza** sobre mi trabajo, pero recordaré que es una **reacción que aparece cuando estoy siendo sincero y auténtico.**
-- Acepto que **ningún otro camino invalida el mío.** Voy a **mi propio ritmo**. 
-- Acepto que **la mejor versión de mi no es ser una máquina de producir** sino una **mente curiosa** en práctica. 
+![](images/chapter3/ch3-1.png)
+
+1. Acepto que **habrá frustración** como parte del proceso que me hará saber que **estoy trabajando en mis límites conocidos**.
+2. Acepto que **mi ritmo creativo lleva pausas y tiempo muerto**, que avanzo y **crezco en la paciencia**.
+3. Acepto que **sentiré momentos de verguenza** sobre mi trabajo, pero recordaré que es una **reacción que aparece cuando estoy siendo sincero y auténtico.**
+4. Acepto que **ningún otro camino invalida el mío.** Voy a **mi propio ritmo**. 
+5. Acepto que **la mejor versión de mi no es ser una máquina de producir** sino una **mente curiosa** en práctica. 
 
 Muchos de los artefactos que estamos usando, **como el manifiesto, el juramento y el pacto**, son parte de una forma de ver el mundo que nos rodea que pueden **extrapolarse a cualquier otro ámbito**, que puede ser el profesional, el personal, el de tus relaciones. A medida que inviertas tu tiempo y corazón en tu propio desarrollo creativo verás que descubrirás nuevas formas de operar en muchos ámbitos.
+
+![](images/chapter3/ch3-3.png)
 
 ## Tu laboratorio es un ritual
 
@@ -62,6 +68,8 @@ Tu laboratorio puede ser:
 - Ten **libertad de incorporar los elementos que más te gusten e inspiren** para hacer tu lugar creativo, puede ir desde ser solo una libreta con tu pluma favorita hasta un escritorio con muchos plumones y decoraciones. Conecta con tu propio gusto y placer.
 
 Insisto en que **tengas una libreta física como tu laboratorio de ideas** porque hay algunas consideraciones del objeto físico sobre el objeto digital. Cuando involucramos las manos al momento de escribir, decorar, dibujar, incluso al manipular, **creamos conexiones sensoriales y emocionales que no son fáciles de emular digitalmente**. El objeto físico puede evolucionar en un **ritual de conexión**, por eso lo importante de que tu libreta sea algo que te guste y te de placer de tener. Las **emociones** que comienzan a fluir son **parte de tu proceso creativo**, cada página se convierte en evidencia de práctica real, es como tener un diario íntimo tuyo, tú decides si lo muestras o no, no tiene que complacer a nadie ni ganar _likes_ ni _views_, es **tu espacio personal**.
+
+![](images/chapter3/ch3-4.png)
 
 De cierta forma **lo físico crea estados mentales** que permiten fluir de manera diferente tus pensamientos. Los objetos, la conexión entre ellos, el ecosistema que se crea en sinergia alimenta tus ideas inconscientes. Al limitar tu actividad a un cuaderno que tiene una forma definida y un límite de páginas hace que tu creatividad funcione diferente.
 

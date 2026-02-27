@@ -16,6 +16,8 @@ Los **seres humanos creamos por necesidad**, nuestras necesidades pueden ir desd
 </p>
 <!-- Note end -->
 
+![](images/chapter2/ch2-6.png)
+
 Comenzar a **percibir y apreciar los detalles** de lo que nos rodea es el paso inicial para desarrollar a conciencia nuestra creatividad, pocas veces nos ponemos a preguntar por qué conectamos mejor con ciertos colores, con ciertas formas, o con ciertos sonidos, muchos de nuestros gustos codifican incluso información genética de nuestros ancestros y por supuesto conectan con nuestra memoria emocional. Te invito a que durante este camino te des oportunidad de preguntarte e indagar por qué te gustan ciertas cosas, y tal vez encontrarás conexiones únicas con tu historia de vida, y si te fijas bien, esas mismas conexiones son únicas e irrepetibles, por más que alguien tenga experiencias similares, cada quién experimenta de forma única, y justo ahí es donde radica parte de tu originalidad. 
 
 ![](images/chapter2/ch2-2.png)
@@ -31,6 +33,8 @@ Comenzar a **percibir y apreciar los detalles** de lo que nos rodea es el paso i
 Tal pareciera que **la creatividad es una forma muy humana de pensar y resolver problemas** pero también de cierta forma nos lleva a **codificar experiencias** y al mismo tiempo **crear significados**. Es un proceso de prueba y error sobre cómo interpretamos nuestra realidad, es un **proceso de experimentación y aproximación**. 
 
 Aquí es donde la creatividad visual hace su presentación, parte de este espectro de variaciones de la creatividad, y como la **capacidad humana para transformas nuestra percepción de la realidad en significados visuales, ideas o soluciones.**
+
+![](images/chapter2/ch2-7.png)
 
 Rudolf Arnheim, psícologo berlinés que definió el término de _visual thinking_, hizo una crítica muy fuerte al decir que **vivimos en un mundo ahogado en el mundo gramatical del texto**, y que esto a su vez provocaba que demeritáramos otras habilidades. 
 

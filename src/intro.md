@@ -2,6 +2,8 @@
   La creatividad visual
 </p>
 
+![](images/intro.png)
+
 El material que tienes en tus manos es un texto ilustrado que condensa muchos aprendizajes que he experimentado como practicante visual y como instructor de _visual thinking_.
 
 Cuando diseño experiencias de aprendizaje me gusta pensar en el maestro que me hubiera gustado tener, en el guía del que me hubiera gustado sentir su compañía y calidez, en el instructor que me tratara con paciencia y motivación.

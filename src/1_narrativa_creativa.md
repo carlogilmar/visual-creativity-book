@@ -1,5 +1,5 @@
 <p style="text-align: center; font-size: 4.5em; font-weight: bold; font-family: 'Georgia', serif; letter-spacing: 0.02em;">
-  I Tu narrativa creativa
+  I La mentira de “no soy creativo”
 </p>
 
 ![](images/chapter1/ch1-1.png)

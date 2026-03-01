@@ -22,8 +22,6 @@ Este libro es a su vez un homenaje a el cariño y pasión que le tengo al **visu
 
 Deseo que estas páginas abran tu pensamiento, desafíen tus creencias y conecten con tu corazón. 
 
-Si tienes algún comentario, petición, o feedback en general que hagan mejorar este material, te agradeceré mucho que me lo compartas a través de mis redes sociales en **@visual_parter** o bien al correo **visualpartnership@gmail.com**.
+Si tienes algún comentario, petición, o feedback en general que hagan mejorar este material, te agradeceré mucho que me lo compartas a través de mis redes sociales en **@visual_partner** o bien al correo **visualpartnership@gmail.com**.
 
-_Happy drawing!_
-
-Carlo.
+_Happy drawing!_ Carlo.

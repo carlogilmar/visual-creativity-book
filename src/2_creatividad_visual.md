@@ -36,10 +36,6 @@ Aquí es donde la creatividad visual hace su presentación, parte de este espect
 
 ![](images/chapter2/ch2-7.png)
 
-Rudolf Arnheim, psícologo berlinés que definió el término de _visual thinking_, hizo una crítica muy fuerte al decir que **vivimos en un mundo ahogado en el mundo gramatical del texto**, y que esto a su vez provocaba que demeritáramos otras habilidades. 
-
-Si lo pensamos bien el mundo de las palabras domina en cierta forma, pero **¿qué pasaría si en vez de resolver ciertas cosas dejaramos de usar palabras y texto?** A veces necesitamos encontrar _vueltas de tuerca_ a las situaciones cotidianas para darnos cuenta la infinidad de posibilidades que podemos aprender y descubrir. Probablemente en este escenario nos veríamos obligados a usar y desarrollar nuestra creatividad visual.
-
 <!-- Note begin -->
 <p style="text-align: center;">
 <span style="display:block; background-color: #0f3460; color: #ffffff; padding: 18px 22px; border-radius: 10px; font-family: 'Georgia', serif; font-size: 1.1em; line-height: 1.7; border-left: 4px solid #ecc121; -webkit-print-color-adjust: exact; print-color-adjust: exact;">
@@ -47,6 +43,10 @@ Si lo pensamos bien el mundo de las palabras domina en cierta forma, pero **¿qu
 </span>
 </p>
 <!-- Note end -->
+
+Rudolf Arnheim, psícologo berlinés que definió el término de _visual thinking_, hizo una crítica muy fuerte al decir que **vivimos en un mundo ahogado en el mundo gramatical del texto**, y que esto a su vez provocaba que demeritáramos otras habilidades. 
+
+Si lo pensamos bien el mundo de las palabras domina en cierta forma, pero **¿qué pasaría si en vez de resolver ciertas cosas dejaramos de usar palabras y texto?** A veces necesitamos encontrar _vueltas de tuerca_ a las situaciones cotidianas para darnos cuenta la infinidad de posibilidades que podemos aprender y descubrir. Probablemente en este escenario nos veríamos obligados a usar y desarrollar nuestra creatividad visual.
 
 En una ocasión tuve la oportunidad de asistir a un congreso de estudiantes en Berlín, ahí la dinámica era tener mesas de debate para platicar nuestras experiencias, sin embargo, era la primera vez que estaba en una situación así, quiero decir en el extranjero y en un idioma en el que me sentía inseguro de comunicarme. Sin embargo tenía muchas ganas de participar así que se me ocurrió tomar unas servilletas y comenzar a dibujar mis ideas, en menos de dos minutos había escrito algunas cosas y pude usarlas como apoyo para mi participación. Cosas inimaginables pasan cuando cambias las reglas del juego.
 

@@ -1,5 +1,5 @@
 <p style="text-align: center; font-size: 4.5em; font-weight: bold; font-family: 'Georgia', serif; letter-spacing: 0.02em;">
-  III Laboratorio de exploración: tu laboratorio secreto de garabatos
+  III Laboratorio de exploración
 </p>
 
 En los capítulos anteriores platicamos sobre **la creatividad como una habilidad humana** que podemos desarollar a conciencia, platicamos lo importante que es **resignificar nuestra autoconcepción** y darnos la oportunidad de **valorar nuestros actos creativos**. 
@@ -91,7 +91,6 @@ Tu laboratorio de exploración **debe ser un lugar para permitir el error y la e
 Algo que suelo hacer durante mis sesiones de entrenamiento es apoyar a mis alumnos a aceptar el caos como parte del proceso, he visto como muchas personas se liberan de la presión de _hacerlo bien_ cuando integran la posibilidad de jugar con el caos y los errores como parte de su proceso de exploración, no hay algo _bueno_ o _malo_, hay _experimentos_ que nos ayudan a encontrar nuestras mejores herramientas. Cuando se adopta la mentalidad de aceptar el caos, viene la siguiente lección: aceptar los espacios vacíos. Los espacios vacíos serán un gran aliado en nuestra exploración visual creativa como lugares que representan escucha, intenciones no formuladas y preguntas no hechas. 
 
 **Todo lo que alimente nuestra libertad creativa para explorar es bienvenido.**
-
 ## Durante el camino
 
 Muchas veces valoramos más el final del camino sobre el propio camino. Te propongo que pongamos más atención **al proceso sobre el fin**. Es muy importante acompañar este recorrido creativo con tu desarrollo emocional, son **las emociones del camino** lo que te darán mejores indicios de donde desarrollar más o donde trabajar ciertas áreas de oportunidad.

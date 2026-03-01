@@ -2,22 +2,6 @@
   V Estrategias visuales para no-creativos
 </p>                                           
 
-ok - tu escudo personal
-ok - La célula organizacional: estructuras sistémicas
-ok - Revista: Volver al futuro: visualizar futuro inmediato como hipótesis
-
-- El personaje en situación: narrativa y mapa de empatía
-- Galería de íconos colectiva (colaboración)
-- Boceta tu problema
-- mermelada gráfica: dibujar símbolos de un concepto ->
-- Mapa histótico - línea de tiempo
-- Orden del día visual
-- Antemortem: visualizar cómo terminará mal aqui descansa
-- Red visual de valores
-- Mente, corazón, mano
-- Producto pinocho, hacer de la situación un amigo
-- La lancha motora: frenos y bloqueos de un proyecto
-
 ## Diccionario visual 
 
 Las estrategias visuales son actividades donde necesitas dibujar para desarrollar tu pensamiento visual, sin embargo también es un proceso complicado de inicio. Recuerda: no necesitamos dibujar bonito y perfecto, el garabato que seamos capaces de trazar será más que suficiente.

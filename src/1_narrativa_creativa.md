@@ -8,7 +8,7 @@ Para responder esta pregunta habría que preguntarse también **cuál es tu defi
 
 ![](images/chapter1/ch1-7.png)
 
-Es curioso por que tal vez el mayor bloqueo en estos procesos de aprendizaje tiene que ver con una **auto-descalificación**. A medida que he preguntado directamente y a medida que he presenciado los procesos de aprendizaje tanto personales como de mis alumnos, he entendido lo importante que es desafiar estas concepciones, resignificarlas y reacomodarlas en lugares más amables que nos permitan mirar las cosas desde otra perspectiva. 
+Es curioso porque tal vez el mayor bloqueo en estos procesos de aprendizaje tiene que ver con una **auto-descalificación**. Muchos de mis alumnos lidian durante sus procesos de aprendizaje con estos bloqueos, incluso antes de iniciar a aprender, por ello me he esforzado en conectar con los miedos y resistencias que pueden existir. He aprendido lo importante que es desafiar estas concepciones, resignificarlas y reacomodarlas en lugares más amables que nos permitan mirar las cosas desde otra perspectiva. 
 
 <!-- Note begin -->
 <p style="text-align: center;">
@@ -59,3 +59,4 @@ Desde cierto punto de vista me gusta ver que el **acto de crear es un acto de li
 **Resignifiquemos la creatividad en nuestras vidas.**
 
 ![](images/chapter1/ch1-6.png)
+

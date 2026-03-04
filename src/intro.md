@@ -1,16 +1,17 @@
 <p style="text-align: center; font-size: 4.5em; font-weight: bold; font-family: 'Georgia', serif; letter-spacing: 0.02em;">
   La creatividad visual
 </p>
-
-![](images/intro.png)
+<p style="text-align: center; font-size: 1.5em; letter-spacing: 0.02em;">
+  Garabatos y estrategias de visual thinking para no-creativos.
+</p>
 
 El material que tienes en tus manos es un texto ilustrado que condensa muchos aprendizajes que he experimentado como practicante visual y como instructor de _visual thinking_.
 
 Cuando diseño experiencias de aprendizaje me gusta pensar en el maestro que me hubiera gustado tener, en el guía del que me hubiera gustado sentir su compañía y calidez, en el instructor que me tratara con paciencia y motivación.
 
-Al platicar con mis alumnos me he dado cuenta que muchas veces los mayores bloqueos no tienen que ver con escribir y dibujar, sino con darse el permiso de volver a ser principiantes, de explorar territorios nuevos con curiosis y de perder el miedo a no hacerlo bien. 
+Al platicar con mis alumnos me he dado cuenta que muchas veces los mayores bloqueos no tienen que ver con escribir y dibujar, sino con darse el permiso de volver a ser principiantes, de explorar territorios nuevos con curiosidad y de perder el miedo a no hacerlo bien. 
 
-Es impactante darse cuenta que la cultura de aprendizaje en la que estamos inmersos nos quita parte de nuestras posibilidades. Y he visto como trabajar con estas concepciones implica un trabajo profundo pero de mayor impacto, por ello este texto es retador y confrontativo, quise escribir este material como una guía para tu curiosidad que despierte inquietudes en ti y te brinde una nueva forma de pensar, la del _visual thinking_.
+La cultura de aprendizaje en la que estamos inmersos nos quita parte de nuestras posibilidades creativas. Y he visto como trabajar con estas concepciones implica un trabajo profundo pero de mayor impacto, por ello este texto es retador y confrontativo, quise escribir este material como una guía para tu curiosidad que despierte inquietudes en ti y te brinde una nueva forma de pensar, la del _visual thinking_.
 
 En la primera parte encontrás algo muy importante que es **el manifiesto del garabato**, este fue producto de mi paso en el Campo de Juego de Luan de noviembre del 2024, es un conjunto de valores y principios que te propongo para explorar este material que seguro te retará.
 
